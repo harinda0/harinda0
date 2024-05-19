@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harinda0
+- 👋 Hi, I’m @harinda
 - 👀 I’m interested in continous learning
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on projects that maximize the use of AI tools

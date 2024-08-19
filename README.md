@@ -2,7 +2,7 @@
 - 👀 I’m interested in continous learning
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on projects that maximize the use of AI tools
-- 📫 How to reach me harinda.hewadewa@dcmail.ca
+- 📫 How to reach me hewadewa.h@gmail.com
 - ⚡ Fun fact: tea can solve anything
 
 <!---

@@ -12,7 +12,7 @@
 - 🔭 I’m a Data Analytics student at Durham College
 - 🌱 I’m skilled in Power BI, SQL, and Excel
 - 👯 I’m looking to collaborate on data-driven projects
-- 💬 Ask me about data analysis, business intelligence, or anything related to analytics
+- 💬 Ask me about data analytics, business intelligence, or anything related to analytics
 - 📫 How to reach me: [hewadewa.h@gmail.com](mailto:hewadewa.h@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I believe tea can solve anything!

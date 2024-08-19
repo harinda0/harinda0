@@ -7,12 +7,15 @@
 
 
 
-- 👋 Hi, I’m @harinda
-- 👀 I’m interested in continous learning
-- 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on projects that maximize the use of AI tools
-- 📫 How to reach me hewadewa.h@gmail.com
-- ⚡ Fun fact: tea can solve anything
+## 🚀 About Me
+
+- 🔭 I’m a Data Analytics student at Durham College
+- 🌱 I’m skilled in Power BI, SQL, and Excel
+- 👯 I’m looking to collaborate on data-driven projects
+- 💬 Ask me about data analysis, business intelligence, or anything related to analytics
+- 📫 How to reach me: [hewadewa.h@gmail.com](mailto:hewadewa.h@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I believe tea can solve anything!
 
 <!---
 harinda0/harinda0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

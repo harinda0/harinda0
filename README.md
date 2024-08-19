@@ -17,6 +17,18 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I believe tea can solve anything!
 
+## 🌐 Connect with Me
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/harindah/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:hewadewa.h@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+</div>
+
+
 <!---
 harinda0/harinda0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

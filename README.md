@@ -1,9 +1,8 @@
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3000&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi,+I’m+Harinda;I’m+interested+in+continuous+learning;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3000&color=33FF33&center=true&vCenter=true&width=800&lines=Hey+there,+Welcome+to+my+GitHub!;I’m+Harinda.;Here,+you'll+find+my+journey+as+a+Data+Analyst.;Explore+my+projects+and+join+me+on+this+learning+adventure!;" alt="Typing SVG"/>
     </h1>
 </div>
-
 
 
 

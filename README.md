@@ -38,7 +38,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harinda0&layout=compact&theme=radical)
 
 
-![GitHub Activity Snake](https://github.com/harinda0/harinda0/blob/output/github-contribution-grid-snake.svg)
+![GitHub Activity Snake](https://github.com/harinda0/blob/output/github-contribution-grid-snake.svg)
 
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)

@@ -38,7 +38,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harinda0&layout=compact&theme=radical)
 
 
-![GitHub Activity Snake](https://github.com/harinda0/blob/output/github-contribution-grid-snake.svg)
+![GitHub Activity Snake](https://github.com/harinda0/harinda0/blob/output/github-contribution-grid-snake.svg)
+
 
 
 

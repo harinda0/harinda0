@@ -32,18 +32,6 @@
 
 
 
-![Harinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=harinda0&show_icons=true&theme=radical)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harinda0&layout=compact&theme=radical)
-
-
-![GitHub Activity Snake](https://github.com/harinda0/harinda0/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FF5733?style=for-the-badge&logo=postgresql&logoColor=white)

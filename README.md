@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=4500&color=5AB9EA&center=true&vCenter=true&width=1000&lines=Hey+there...;I'm+Harinda+Hewadewa...;Software+Dev+%7C+Database+%7C+QA+%7C+DevOps...;Welcome+to+my+GitHub!" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=4500&color=5AB9EA&center=true&vCenter=true&width=1000&lines=Hey+there...;I'm+Harinda+Hewadewa...;BA+%7C+Software+Dev+%7C+Database+%7C+QA+%7C+DevOps...;Welcome+to+my+GitHub!" alt="Typing SVG"/>
     </h1>
 </div>
 
@@ -11,9 +11,9 @@
 - 💼 Currently working at **Statistics Canada** as Data Collection CR-03 (Jan 2025 – Present)
 - 🎓 Studying **Computer Programming** at Algonquin College (Ontario College Diploma, Apr 2026 – Apr 2028)
 - 🌱 Working toolkit: **SQL, Python, Microsoft Excel** (advanced), data cleaning & validation, documentation, requirements gathering
-- 🎯 Targeting junior roles in **Software Development, Database Administration/Development, QA/Software Testing, DevOps, Cloud, and Data Engineering**
+- 🎯 Targeting roles in **Business Analysis, Software Development, Database Administration/Development, QA/Software Testing, DevOps, Cloud, and Data Engineering**
 - 👯 Open to collaborate on software, database, and data-driven projects
-- 💬 Ask me about SQL, Python, data analytics, or anything related to software & IT
+- 💬 Ask me about SQL, Python, data analytics, business analysis, or anything related to software & IT
 - 📫 How to reach me: [hewadewa.h@gmail.com](mailto:hewadewa.h@gmail.com)
 - 📍 Ajax, Ontario, Canada
 - 😄 Pronouns: He/Him
@@ -28,8 +28,8 @@
 | Algonquin College of Applied Arts and Technology | Ontario College Diploma, Computer Programming | 2026 – 2028 |
 | George Brown Polytechnic | Graduate Certificate, Project Management | 2025 |
 | Durham College | Graduate Certificate, Data Analytics for Business | 2024 |
-| Edith Cowan University (ECU) | MSc International Business Management | 2012 |
-| University of West London (UWL) | BSc Management & Marketing | 2010 |
+| University of West London (UWL) | MSc International Business Management | 2016 |
+| Edith Cowan University (ECU) | BSc Management & Marketing | 2012 |
 
 ---
 

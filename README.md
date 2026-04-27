@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=4500&color=5AB9EA&center=true&vCenter=true&width=1000&lines=Hey+there...,+Welcome+to+my+GitHub!...;I’m+Harinda...;Here,+you'll+find+my+journey+as+a+Data+Analyst...;Explore+my+projects+and+join+me+on+this+adventure!;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=4500&color=5AB9EA&center=true&vCenter=true&width=1000&lines=Hey+there...;I'm+Harinda+Hewadewa...;Software+Dev+%7C+Database+%7C+QA+%7C+DevOps...;Welcome+to+my+GitHub!" alt="Typing SVG"/>
     </h1>
 </div>
 
@@ -8,39 +8,53 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m a Data Analytics student at Durham College
-- 🌱 I’m skilled in Power BI, SQL, and Excel
-- 👯 I’m looking to collaborate on data-driven projects
-- 💬 Ask me about data analytics, business intelligence, or anything related to analytics
+- 💼 Currently working at **Statistics Canada** as Data Collection CR-03 (Jan 2025 – Present)
+- 🎓 Studying **Computer Programming** at Algonquin College (Ontario College Diploma, Apr 2026 – Apr 2028)
+- 🌱 Working toolkit: **SQL, Python, Microsoft Excel** (advanced), data cleaning & validation, documentation, requirements gathering
+- 🎯 Targeting junior roles in **Software Development, Database Administration/Development, QA/Software Testing, DevOps, Cloud, and Data Engineering**
+- 👯 Open to collaborate on software, database, and data-driven projects
+- 💬 Ask me about SQL, Python, data analytics, or anything related to software & IT
 - 📫 How to reach me: [hewadewa.h@gmail.com](mailto:hewadewa.h@gmail.com)
+- 📍 Ajax, Ontario, Canada
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I believe tea can solve anything!
 
+---
+
+## 🎓 Education
+
+| Institution | Credential | Period |
+|---|---|---|
+| Algonquin College of Applied Arts and Technology | Ontario College Diploma, Computer Programming | Apr 2026 – Apr 2028 |
+| George Brown Polytechnic | Graduate Certificate, Project Management | Jan 2025 – Aug 2025 |
+| Durham College | Graduate Certificate, Data Analytics for Business | Completed |
+
+---
+
+## 💼 Experience
+
+- **Data Collection CR-03** — Statistics Canada *(Jan 2025 – Present)*
+- **Research Assistant** — Durham College Co-op *(Sep 2024 – Dec 2024)*
+- **Business Analyst / Data Analyst** — Rapidline Logistics *(Jan 2017 – Nov 2023)*
+- **Helpdesk Support** — CAMMS *(Mar 2013 – Dec 2014)*
+- **Pharmacy Manager** — Dewa Pharmacy *(Jan 2015 – Jan 2017)*
+
+---
+
+## 🛠️ Skills
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
 ## 🌐 Connect with Me
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/harindah/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:hewadewa.h@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://hewadewah.wixsite.com/digitalp">
-        <img src="https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=wix&logoColor=white" alt="Portfolio"/>
-    </a>
-</div>
-
-
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FF5733?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-
-
-
-<!---
-harinda0/harinda0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harindah/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hewadewa.h@gmail.com)

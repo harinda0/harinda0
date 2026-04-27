@@ -23,11 +23,13 @@
 
 ## 🎓 Education
 
-| Institution | Credential | Period |
+| Institution | Credential | Year |
 |---|---|---|
-| Algonquin College of Applied Arts and Technology | Ontario College Diploma, Computer Programming | Apr 2026 – Apr 2028 |
-| George Brown Polytechnic | Graduate Certificate, Project Management | Jan 2025 – Aug 2025 |
-| Durham College | Graduate Certificate, Data Analytics for Business | Completed |
+| Algonquin College of Applied Arts and Technology | Ontario College Diploma, Computer Programming | 2026 – 2028 |
+| George Brown Polytechnic | Graduate Certificate, Project Management | 2025 |
+| Durham College | Graduate Certificate, Data Analytics for Business | 2024 |
+| Edith Cowan University (ECU) | MSc International Business Management | 2012 |
+| University of West London (UWL) | BSc Management & Marketing | 2010 |
 
 ---
 
@@ -49,8 +51,6 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
